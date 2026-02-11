@@ -1,1 +1,5 @@
 # Python SOLID Principles
+
+"""
+This repository contains examples of the SOLID principles in Python. The SOLID principles are a set of design principles that help developers create maintainable and scalable software. The principles are:
+1. Single Responsibility Principle (SRP)
