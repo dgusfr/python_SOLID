@@ -17,5 +17,5 @@ class BackFridayCoupon(CouponStrategy):
 class NatalCoupon(CouponStrategy):
     def apply_discount(self, value: float):
         if value < 800:
-            raise ValueError("Value must be greater than 800")
+            return 0
         return value * 0.30
