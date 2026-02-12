@@ -7,3 +7,5 @@ This repository contains examples of the SOLID principles in Python. The SOLID p
 3. Liskov Substitution Principle (LSP)
 4. Interface Segregation Principle (ISP)
 5. Dependency Inversion Principle (DIP)
+
+Each principle is demonstrated with code examples in the `src` directory. The examples are organized by principle and include both good and bad implementations to illustrate the concepts clearly.
