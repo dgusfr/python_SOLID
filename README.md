@@ -10,7 +10,7 @@ This repository contains examples of the SOLID principles in Python. The SOLID p
 
 4. **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on interfaces they do not use.
 
-5. Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend on details. Details should depend on abstractions.
+5. **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend on details. Details should depend on abstractions.
 
 Each principle is demonstrated with code examples in the `src` directory. The examples are organized by principle and include both good and bad implementations to illustrate the concepts clearly.
 
