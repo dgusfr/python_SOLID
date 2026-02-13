@@ -6,7 +6,7 @@ This repository contains examples of the SOLID principles in Python. The SOLID p
 
 2. Open/Closed Principle (OCP): Software entities should be open for extension but closed for modification.
 
-3. Liskov Substitution Principle (LSP)
+3. Liskov Substitution Principle (LSP): Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
 
 4. Interface Segregation Principle (ISP)
 
