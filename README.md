@@ -8,7 +8,7 @@ This repository contains examples of the SOLID principles in Python. The SOLID p
 
 3. Liskov Substitution Principle (LSP): Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
 
-4. Interface Segregation Principle (ISP)
+4. Interface Segregation Principle (ISP): Clients should not be forced to depend on interfaces they do not use.
 
 5. Dependency Inversion Principle (DIP)
 
