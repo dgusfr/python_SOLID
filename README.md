@@ -4,7 +4,7 @@ This repository contains examples of the SOLID principles in Python. The SOLID p
 
 1. Single Responsibility Principle (SRP): A class should have only one reason to change, meaning it should have only one responsibility.
 
-2. Open/Closed Principle (OCP)
+2. Open/Closed Principle (OCP): Software entities should be open for extension but closed for modification.
 
 3. Liskov Substitution Principle (LSP)
 
